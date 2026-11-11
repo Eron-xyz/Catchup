@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333385693419",
+    "project_id": "catchup-b311f",
+    "storage_bucket": "catchup-b311f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333385693419:android:642f04f8a57bdde689e6ae",
+        "android_client_info": {
+          "package_name": "com.example.catchup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApZ8cxOnQI6Ybi3KoxHWvx4Gi1zK8a3Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
